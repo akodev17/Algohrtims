@@ -1,0 +1,23 @@
+Lesson: Algorithms and data structures
+
+By Azimjon pulatov
+https://www.youtube.com/watch?v=WqrbIUggEXQ&t=10991s
+
+
+Kirish:
+1. Numbers
+
+1. Son bu data lekin information emas son bu judayam absract tushuncha.
+2. Algortim bu qandaydur malumotni qabul qilish va qandaydur malumotni qaytarish jarayoni.
+3. Algortimni xususiyatlari: algortim qandaydir malumotni qabul qilish va qaytarishi kerak bu algortimning birinchi xususiyati. ikkinchi muhim xususiyati bu algortim to'htashi kerak.
+
+4. Son Anatomiyasi:
+Number:
+1. Index: bu sonning indexi. Bu son o'z ichiga qandaydir malumotlarni saqlab turadi. Masalan, sonni yozishda bu sonning indexi qanaqadir malumotni bildiradi. Chunki, har bir son o'ziga xos indexga ega.
+2. Radix: bu sonning radixi. Radix sonning o'nlik sistemasiga kiritilganligini bildiradi. Masalan, 10-lik son tizimida sonning radixi 10 ga teng.
+3. Digits: bu sonning digitsi. Digits sonning o'z ichiga qandaydir sonlarni saqlab turadi. Masalan, 10-lik son tizimida sonning digitsi 10 ga teng.
+4. Position: bu sonning pozitsiyasi. Bu sonning pozitsiyasi o'z ichiga qandaydir malumotlarni saqlab turadi. Masalan, 10-lik son tizimida sonning pozitsiyasi qanaqadir malumotni bildiradi. Chunki, har bir son o'z pozitsiyasiga ega.
+
+
+5. Sanoq Tizimlari
+Number systems rasmni ko'rish maslahat beriladi

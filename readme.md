@@ -7,5 +7,5 @@ Darslikni quyidagi havola orqali tomosha qilishingiz mumkin: [YouTube](https://w
 Darslikdan misollar keltir:
 
 1. Numbers
-
+2. Number systems
 
